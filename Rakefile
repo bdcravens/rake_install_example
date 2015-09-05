@@ -1,3 +1,3 @@
 require "bundler/gem_tasks"
 
-import "./lib/tasks/example.rake"
+load "./lib/tasks/example.rake"
